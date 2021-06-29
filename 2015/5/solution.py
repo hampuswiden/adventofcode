@@ -1,4 +1,3 @@
-import hashlib
 
 def solution_part_1():
 	f = open("input.txt", "r")
